@@ -1,6 +1,6 @@
 import Header from "../../components/header";
 import StatsLinkBox from "../../client/StatsLinkBox";
-import CopyButton from "./CopyButton";
+//import CopyButton from "../../client/CopyButton";
 import { db } from "@/app/db/db";
 import { links } from "@/app/db/schema";
 import { eq } from "drizzle-orm";
